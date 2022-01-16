@@ -1,0 +1,592 @@
+﻿++Solution 'Hondenasiel' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:Hondenasiel.sln
+++Hondenasiel.Common
+i:{00000000-0000-0000-0000-000000000000}:Hondenasiel.Common
+++Dependencies
+i:{5ff4a4d8-5b58-4d36-af78-322700c285da}:>866
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:>372
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:>403
+++Analyzers
+i:{5ff4a4d8-5b58-4d36-af78-322700c285da}:analyzers
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:analyzers
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:analyzers
+++Frameworks
+i:{5ff4a4d8-5b58-4d36-af78-322700c285da}:frameworks
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:frameworks
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:frameworks
+++Constants.cs
+i:{5ff4a4d8-5b58-4d36-af78-322700c285da}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.common\constants.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{5ff4a4d8-5b58-4d36-af78-322700c285da}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{5ff4a4d8-5b58-4d36-af78-322700c285da}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{5ff4a4d8-5b58-4d36-af78-322700c285da}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{5ff4a4d8-5b58-4d36-af78-322700c285da}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.common\microsoft.netcore.app
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\microsoft.netcore.app
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\microsoft.netcore.app
+++Hondenasiel
+i:{00000000-0000-0000-0000-000000000000}:Hondenasiel
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\hondenasiel.csproj
+++Connected Services 
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:>373
+++Properties
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\properties\
+++launchSettings.json
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\properties\launchsettings.json
+++1. Domain
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\1. domain\
+++Asiel
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\1. domain\asiel\
+++Adres.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\1. domain\asiel\adres.cs
+++AsielRoot.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\1. domain\asiel\asielroot.cs
+++Hond.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\1. domain\asiel\hond.cs
+++Ref
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\1. domain\ref\
+++Geslacht.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\1. domain\ref\geslacht.cs
+++Kleur.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\1. domain\ref\kleur.cs
+++Ras.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\1. domain\ref\ras.cs
+++2. Application
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\2. application\
+++Commands
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\2. application\commands\
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\3. messages\commands\
+++ICommandAsielRepository.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\2. application\commands\icommandasielrepository.cs
+++IQueryRefRepository.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\2. application\commands\iqueryrefrepository.cs
+++PasFotoAanCommandHandler.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\2. application\commands\pasfotoaancommandhandler.cs
+++RegistreerHondCommandHandler.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\2. application\commands\registreerhondcommandhandler.cs
+++Queries
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\2. application\queries\
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\3. messages\queries\
+++GetHondQueryHandler.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\2. application\queries\gethondqueryhandler.cs
+++IHondDtoRepository.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\2. application\queries\ihonddtorepository.cs
+++3. Messages
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\3. messages\
+++PasFotoAanCommand.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\3. messages\commands\pasfotoaancommand.cs
+++RegistreerHondCommand.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\3. messages\commands\registreerhondcommand.cs
+++Dtos
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\3. messages\dtos\
+++HondDto.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\3. messages\dtos\honddto.cs
+++GetHondQuery.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\3. messages\queries\gethondquery.cs
+++4. Infrastructure - database
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\4. infrastructure - database\
+++CommandAsielRepository.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\4. infrastructure - database\commandasielrepository.cs
+++HondDtoRepository.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\4. infrastructure - database\honddtorepository.cs
+++HondenasielDbContext.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\4. infrastructure - database\hondenasieldbcontext.cs
+++QueryRefRepository.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\4. infrastructure - database\queryrefrepository.cs
+++5. Infrastructure - webapi
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\5. infrastructure - webapi\
+++ErrorDetails.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\5. infrastructure - webapi\errordetails.cs
+++ExceptionMiddlewareExtensions.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\5. infrastructure - webapi\exceptionmiddlewareextensions.cs
+++MediatorExtensions.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\5. infrastructure - webapi\mediatorextensions.cs
+++SwaggerFileOperationFilter.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\5. infrastructure - webapi\swaggerfileoperationfilter.cs
+++6. Infrastructure - filesystem
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\6. infrastructure - filesystem\
+++FotoRepository.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\6. infrastructure - filesystem\fotorepository.cs
+++Controllers
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\controllers\
+++HondController.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\controllers\hondcontroller.cs
+++IFotoRepository.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\controllers\ifotorepository.cs
+++Migrations
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\migrations\
+++20220112163028_InitialCreate.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\migrations\20220112163028_initialcreate.cs
+++HondenasielDbContextModelSnapshot.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\migrations\hondenasieldbcontextmodelsnapshot.cs
+++appsettings.json
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\appsettings.json
+++Program.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\program.cs
+++Startup.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\startup.cs
+++No service dependencies discovered
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:>374
+++Packages
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:packages
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:packages
+++20220112163028_InitialCreate.Designer.cs
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\migrations\20220112163028_initialcreate.designer.cs
+++appsettings.Development.json
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.13\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.13\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel\microsoft.aspnetcore.app
+++MediatR (10.0.0)
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:>387
+++MediatR.Extensions.Microsoft.DependencyInjection (10.0.0)
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:>390
+++Microsoft.EntityFrameworkCore (5.0.13)
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:>383
+++Microsoft.EntityFrameworkCore.Design (5.0.13)
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:>385
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.13)
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:>384
+++Microsoft.EntityFrameworkCore.Tools (5.0.13)
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:>389
+++Swashbuckle.AspNetCore (6.2.3)
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:>386
+++System.IO.Abstractions (16.1.4)
+i:{9cf39f60-e02e-4a35-acb6-8d02d7347267}:>388
+++Hondenasiel.tests
+i:{00000000-0000-0000-0000-000000000000}:Hondenasiel.tests
+++AutoFixture (4.17.0)
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:>472
+++AutoFixture.AutoMoq (4.17.0)
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:>474
+++coverlet.collector (3.1.0)
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:>413
+++Microsoft.EntityFrameworkCore.InMemory (6.0.1)
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:>855
+++Microsoft.NET.Test.Sdk (16.11.0)
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:>410
+++Moq (4.16.1)
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:>473
+++NUnit (3.13.2)
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:>411
+++NUnit3TestAdapter (4.0.0)
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:>412
+++Projects
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:projects
+++Imports
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:>916
+++bin
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\
+++obj
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\obj\
+++BaseTest.cs
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\basetest.cs
+++Microsoft.TestPlatform.PlatformAbstractions.dll
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\.nuget\packages\microsoft.testplatform.testhost\16.11.0\build\netcoreapp2.1\x64\microsoft.testplatform.platformabstractions.dll
+++nunit.engine.api.dll
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\.nuget\packages\nunit3testadapter\4.0.0\build\netcoreapp2.1\nunit.engine.api.dll
+++nunit.engine.core.dll
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\.nuget\packages\nunit3testadapter\4.0.0\build\netcoreapp2.1\nunit.engine.core.dll
+++nunit.engine.dll
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\.nuget\packages\nunit3testadapter\4.0.0\build\netcoreapp2.1\nunit.engine.dll
+++NUnit3.TestAdapter.dll
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\.nuget\packages\nunit3testadapter\4.0.0\build\netcoreapp2.1\nunit3.testadapter.dll
+++NUnit3.TestAdapter.pdb
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\.nuget\packages\nunit3testadapter\4.0.0\build\netcoreapp2.1\nunit3.testadapter.pdb
+++testcentric.engine.metadata.dll
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\.nuget\packages\nunit3testadapter\4.0.0\build\netcoreapp2.1\testcentric.engine.metadata.dll
+++testhost.dll
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\.nuget\packages\microsoft.testplatform.testhost\16.11.0\build\netcoreapp2.1\x64\testhost.dll
+++testhost.exe
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\.nuget\packages\microsoft.testplatform.testhost\16.11.0\build\netcoreapp2.1\x64\testhost.exe
+++UnitTest1.cs
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\unittest1.cs
+++Microsoft.AspNetCore.App.Analyzers
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.Extensions.Logging.Generators
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Sdk.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\sdk\sdk.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Debug
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\obj\debug\
+++Hondenasiel.tests.csproj.nuget.dgspec.json
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\obj\hondenasiel.tests.csproj.nuget.dgspec.json
+++Hondenasiel.tests.csproj.nuget.g.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\obj\hondenasiel.tests.csproj.nuget.g.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\obj\hondenasiel.tests.csproj.nuget.g.props
+++Hondenasiel.tests.csproj.nuget.g.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\obj\hondenasiel.tests.csproj.nuget.g.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\obj\hondenasiel.tests.csproj.nuget.g.targets
+++project.assets.json
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\obj\project.assets.json
+++project.nuget.cache
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\obj\project.nuget.cache
+++Microsoft.Common.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++net6.0
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\obj\debug\net6.0\
+++Microsoft.NuGet.ImportBefore.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++cs
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\cs\
+++de
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\de\
+++es
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\es\
+++fr
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\fr\
+++it
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\it\
+++ja
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\ja\
+++ko
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\ko\
+++pl
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\pl\
+++pt-BR
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\pt-br\
+++ref
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\ref\
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\obj\debug\net6.0\ref\
+++ru
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\ru\
+++runtimes
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\runtimes\
+++tr
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\tr\
+++zh-Hans
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\zh-hans\
+++zh-Hant
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\zh-hant\
+++AutoFixture.AutoMoq.dll
+++AutoFixture.dll
+++Castle.Core.dll
+++CoverletSourceRootsMapping
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\coverletsourcerootsmapping
+++Fare.dll
+++Hondenasiel.deps.json
+++Hondenasiel.dll
+++Hondenasiel.exe
+++Hondenasiel.pdb
+++Hondenasiel.runtimeconfig.dev.json
+++Hondenasiel.runtimeconfig.json
+++Hondenasiel.tests.deps.json
+++Hondenasiel.tests.dll
+++Hondenasiel.tests.pdb
+++Hondenasiel.tests.runtimeconfig.json
+++MediatR.Contracts.dll
+++MediatR.dll
+++MediatR.Extensions.Microsoft.DependencyInjection.dll
+++Microsoft.Data.SqlClient.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+++Microsoft.EntityFrameworkCore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+++Microsoft.EntityFrameworkCore.SqlServer.dll
+++Microsoft.Identity.Client.dll
+++Microsoft.IdentityModel.JsonWebTokens.dll
+++Microsoft.IdentityModel.Logging.dll
+++Microsoft.IdentityModel.Protocols.dll
+++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+++Microsoft.IdentityModel.Tokens.dll
+++Microsoft.OpenApi.dll
+++Microsoft.TestPlatform.CommunicationUtilities.dll
+++Microsoft.TestPlatform.CoreUtilities.dll
+++Microsoft.TestPlatform.CrossPlatEngine.dll
+++Microsoft.TestPlatform.Utilities.dll
+++Microsoft.VisualStudio.CodeCoverage.Shim.dll
+++Microsoft.VisualStudio.TestPlatform.Common.dll
+++Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+++Microsoft.Win32.SystemEvents.dll
+++Moq.dll
+++Newtonsoft.Json.dll
+++NuGet.Frameworks.dll
+++nunit.framework.dll
+++nunit_random_seed.tmp
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\nunit_random_seed.tmp
+++Swashbuckle.AspNetCore.Swagger.dll
+++Swashbuckle.AspNetCore.SwaggerGen.dll
+++Swashbuckle.AspNetCore.SwaggerUI.dll
+++System.Configuration.ConfigurationManager.dll
+++System.Drawing.Common.dll
+++System.IdentityModel.Tokens.Jwt.dll
+++System.IO.Abstractions.dll
+++System.Runtime.Caching.dll
+++System.Security.Cryptography.ProtectedData.dll
+++System.Security.Permissions.dll
+++System.Windows.Extensions.dll
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\obj\debug\net6.0\.netcoreapp,version=v6.0.assemblyattributes.cs
+++Hondenasiel.tests.AssemblyInfo.cs
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\obj\debug\net6.0\hondenasiel.tests.assemblyinfo.cs
+++Hondenasiel.tests.AssemblyInfoInputs.cache
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\obj\debug\net6.0\hondenasiel.tests.assemblyinfoinputs.cache
+++Hondenasiel.tests.assets.cache
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\obj\debug\net6.0\hondenasiel.tests.assets.cache
+++Hondenasiel.tests.csproj.AssemblyReference.cache
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\obj\debug\net6.0\hondenasiel.tests.csproj.assemblyreference.cache
+++Hondenasiel.tests.csproj.BuildWithSkipAnalyzers
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\obj\debug\net6.0\hondenasiel.tests.csproj.buildwithskipanalyzers
+++Hondenasiel.tests.csproj.CopyComplete
+++Hondenasiel.tests.csproj.CoreCompileInputs.cache
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\obj\debug\net6.0\hondenasiel.tests.csproj.corecompileinputs.cache
+++Hondenasiel.tests.csproj.FileListAbsolute.txt
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\obj\debug\net6.0\hondenasiel.tests.csproj.filelistabsolute.txt
+++Hondenasiel.tests.GeneratedMSBuildEditorConfig.editorconfig
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\obj\debug\net6.0\hondenasiel.tests.generatedmsbuildeditorconfig.editorconfig
+++Hondenasiel.tests.genruntimeconfig.cache
+++NUnit3TestAdapter.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\.nuget\packages\nunit3testadapter\4.0.0\build\netcoreapp2.1\nunit3testadapter.props
+++NUnit.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\.nuget\packages\nunit\3.13.2\build\nunit.props
+++Microsoft.TestPlatform.TestHost.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\.nuget\packages\microsoft.testplatform.testhost\16.11.0\build\netcoreapp2.1\microsoft.testplatform.testhost.props
+++Microsoft.CodeCoverage.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\.nuget\packages\microsoft.codecoverage\16.11.0\build\netstandard1.0\microsoft.codecoverage.props
+++Microsoft.NET.Test.Sdk.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\.nuget\packages\microsoft.net.test.sdk\16.11.0\build\netcoreapp2.1\microsoft.net.test.sdk.props
+++Microsoft.NuGet.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android)
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios)
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst)
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos)
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui)
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos)
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten)
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain)
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+++Microsoft.TestPlatform.CoreUtilities.resources.dll
+++Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+++Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+++Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+++unix
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\runtimes\unix\
+++win
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\runtimes\win\
+++win-arm
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\runtimes\win-arm\
+++win-arm64
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\runtimes\win-arm64\
+++win-x64
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\runtimes\win-x64\
+++win-x86
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\runtimes\win-x86\
+++Microsoft.NET.ILLink.Tasks.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++lib
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\runtimes\unix\lib\
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\runtimes\win\lib\
+++native
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\runtimes\win-arm\native\
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\runtimes\win-arm64\native\
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\runtimes\win-x64\native\
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\runtimes\win-x86\native\
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++Microsoft.NET.props
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Xamarin.Common.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\xamarin.common.targets
+++NETStandard.Library.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\.nuget\packages\netstandard.library\2.0.0\build\netstandard2.0\netstandard.library.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\.nuget\packages\netstandard.library\2.0.0\build\netstandard.library.targets
+++Microsoft.CodeCoverage.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\.nuget\packages\microsoft.codecoverage\16.11.0\build\netstandard1.0\microsoft.codecoverage.targets
+++Microsoft.NET.Test.Sdk.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\.nuget\packages\microsoft.net.test.sdk\16.11.0\build\netcoreapp2.1\microsoft.net.test.sdk.targets
+++coverlet.collector.targets
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\.nuget\packages\coverlet.collector\3.1.0\build\netstandard1.0\coverlet.collector.targets
+++netcoreapp3.0
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.0\
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\
+++netcoreapp3.1
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\
+++netstandard2.0
+i:{e0d5576a-30bd-4940-931d-e5f45bc6f638}:c:\users\jurgen\source\repos\jurgenmatthijslv\honden_asiel_unit_test_demo\src\hondenasiel.tests\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\
+++Microsoft.Data.SqlClient.SNI.dll
+++Microsoft.Data.SqlClient.SNI.pdb

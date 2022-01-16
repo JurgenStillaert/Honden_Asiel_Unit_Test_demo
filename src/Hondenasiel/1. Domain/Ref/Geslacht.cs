@@ -2,7 +2,7 @@
 
 namespace Hondenasiel.Domain.Ref
 {
-	internal class Geslacht
+	public class Geslacht
 	{
 		public Guid ID { get; set; }
 		public string Code { get; set; }

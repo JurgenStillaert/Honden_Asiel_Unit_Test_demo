@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <BaseOutputPath>C:\Users\Jurgen\source\repos\JurgenMatthijsLv\Honden_Asiel_Unit_Test_demo\src\Hondenasiel\bin</BaseOutputPath>
+    <BaseIntermediateOutputPath>C:\Users\Jurgen\source\repos\JurgenMatthijsLv\Honden_Asiel_Unit_Test_demo\src\Hondenasiel\obj</BaseIntermediateOutputPath>
+    <ProduceReferenceAssembly>True</ProduceReferenceAssembly>
+    <GenerateDocumentationFile>False</GenerateDocumentationFile>
   </PropertyGroup>
 
   <ItemGroup>

@@ -3,7 +3,7 @@ using System;
 
 namespace Hondenasiel.Domain.Asiel
 {
-	internal class Hond
+	public class Hond
 	{
 		public Guid ID { get; private set; }
 		public string Naam { get; private set; }

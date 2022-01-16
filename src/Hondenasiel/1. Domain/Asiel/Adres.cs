@@ -1,6 +1,6 @@
 ﻿namespace Hondenasiel.Domain.Asiel
 {
-	internal class Adres
+	public class Adres
 	{
 		public string Straat { get; private set; }
 		public string Huisnummer { get; private set; }

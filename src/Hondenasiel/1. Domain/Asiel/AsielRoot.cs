@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace Hondenasiel.Domain.Asiel
 {
-	internal class AsielRoot
+	public class AsielRoot
 	{
 		public Guid ID { get; private set; }
 		public string Naam { get; private set; }

@@ -6,7 +6,7 @@ using System;
 
 namespace Hondenasiel.Infrastructure.Database
 {
-	internal class HondenasielDbContext : DbContext
+	public class HondenasielDbContext : DbContext
 	{
 		public HondenasielDbContext(DbContextOptions<HondenasielDbContext> options) : base(options)
 		{
