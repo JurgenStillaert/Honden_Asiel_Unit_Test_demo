@@ -1473,6 +1473,7 @@
       },
       "Hondenasiel/1.0.0": {
         "dependencies": {
+          "Hondenasiel.Common": "1.0.0",
           "MediatR": "10.0.0",
           "MediatR.Extensions.Microsoft.DependencyInjection": "10.0.0",
           "Microsoft.EntityFrameworkCore": "6.0.1",
