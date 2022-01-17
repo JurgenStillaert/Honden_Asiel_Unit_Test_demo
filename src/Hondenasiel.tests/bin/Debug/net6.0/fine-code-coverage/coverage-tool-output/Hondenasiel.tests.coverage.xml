@@ -1,11 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<coverage line-rate="0.32170000000000004" branch-rate="0" version="1.9" timestamp="1642416695" lines-covered="195" lines-valid="606" branches-covered="0" branches-valid="28">
+<coverage line-rate="0.3663" branch-rate="0" version="1.9" timestamp="1642446762" lines-covered="222" lines-valid="606" branches-covered="0" branches-valid="28">
   <sources>
     <source>E:\Projects\Honden_Asiel_Unit_Test_demo\src\</source>
     <source>C:\</source>
   </sources>
   <packages>
-    <package name="Hondenasiel" line-rate="0.303" branch-rate="0" complexity="130">
+    <package name="Hondenasiel.Common" line-rate="1" branch-rate="1" complexity="0">
+      <classes />
+    </package>
+    <package name="Hondenasiel" line-rate="0.33149999999999996" branch-rate="0" complexity="130">
       <classes>
         <class name="Hondenasiel.Program" filename="Hondenasiel\Program.cs" line-rate="0" branch-rate="1" complexity="2">
           <methods>
@@ -41,112 +44,112 @@
           <methods>
             <method name="get_Configuration" signature="()" line-rate="0" branch-rate="1" complexity="1">
               <lines>
-                <line number="26" hits="0" branch="False" />
+                <line number="27" hits="0" branch="False" />
               </lines>
             </method>
             <method name="ConfigureServices" signature="(Microsoft.Extensions.DependencyInjection.IServiceCollection)" line-rate="0" branch-rate="1" complexity="1">
               <lines>
-                <line number="30" hits="0" branch="False" />
                 <line number="31" hits="0" branch="False" />
-                <line number="33" hits="0" branch="False" />
+                <line number="32" hits="0" branch="False" />
                 <line number="34" hits="0" branch="False" />
                 <line number="35" hits="0" branch="False" />
                 <line number="36" hits="0" branch="False" />
                 <line number="37" hits="0" branch="False" />
                 <line number="38" hits="0" branch="False" />
-                <line number="40" hits="0" branch="False" />
+                <line number="39" hits="0" branch="False" />
                 <line number="41" hits="0" branch="False" />
                 <line number="42" hits="0" branch="False" />
                 <line number="43" hits="0" branch="False" />
-                <line number="46" hits="0" branch="False" />
+                <line number="44" hits="0" branch="False" />
                 <line number="47" hits="0" branch="False" />
                 <line number="48" hits="0" branch="False" />
                 <line number="49" hits="0" branch="False" />
                 <line number="50" hits="0" branch="False" />
                 <line number="51" hits="0" branch="False" />
+                <line number="52" hits="0" branch="False" />
               </lines>
             </method>
             <method name="Configure" signature="(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)" line-rate="0" branch-rate="0" complexity="2">
               <lines>
-                <line number="55" hits="0" branch="False" />
-                <line number="56" hits="0" branch="True" condition-coverage="0% (0/2)">
+                <line number="56" hits="0" branch="False" />
+                <line number="57" hits="0" branch="True" condition-coverage="0% (0/2)">
                   <conditions>
                     <condition number="9" type="jump" coverage="0%" />
                   </conditions>
                 </line>
-                <line number="57" hits="0" branch="False" />
                 <line number="58" hits="0" branch="False" />
                 <line number="59" hits="0" branch="False" />
                 <line number="60" hits="0" branch="False" />
                 <line number="61" hits="0" branch="False" />
                 <line number="62" hits="0" branch="False" />
                 <line number="63" hits="0" branch="False" />
-                <line number="65" hits="0" branch="False" />
-                <line number="67" hits="0" branch="False" />
-                <line number="69" hits="0" branch="False" />
-                <line number="71" hits="0" branch="False" />
-                <line number="73" hits="0" branch="False" />
+                <line number="64" hits="0" branch="False" />
+                <line number="66" hits="0" branch="False" />
+                <line number="68" hits="0" branch="False" />
+                <line number="70" hits="0" branch="False" />
+                <line number="72" hits="0" branch="False" />
                 <line number="74" hits="0" branch="False" />
                 <line number="75" hits="0" branch="False" />
                 <line number="76" hits="0" branch="False" />
                 <line number="77" hits="0" branch="False" />
+                <line number="78" hits="0" branch="False" />
               </lines>
             </method>
             <method name=".ctor" signature="(Microsoft.Extensions.Configuration.IConfiguration)" line-rate="0" branch-rate="1" complexity="1">
               <lines>
-                <line number="21" hits="0" branch="False" />
                 <line number="22" hits="0" branch="False" />
                 <line number="23" hits="0" branch="False" />
                 <line number="24" hits="0" branch="False" />
+                <line number="25" hits="0" branch="False" />
               </lines>
             </method>
           </methods>
           <lines>
-            <line number="26" hits="0" branch="False" />
-            <line number="30" hits="0" branch="False" />
+            <line number="27" hits="0" branch="False" />
             <line number="31" hits="0" branch="False" />
-            <line number="33" hits="0" branch="False" />
+            <line number="32" hits="0" branch="False" />
             <line number="34" hits="0" branch="False" />
             <line number="35" hits="0" branch="False" />
             <line number="36" hits="0" branch="False" />
             <line number="37" hits="0" branch="False" />
             <line number="38" hits="0" branch="False" />
-            <line number="40" hits="0" branch="False" />
+            <line number="39" hits="0" branch="False" />
             <line number="41" hits="0" branch="False" />
             <line number="42" hits="0" branch="False" />
             <line number="43" hits="0" branch="False" />
-            <line number="46" hits="0" branch="False" />
+            <line number="44" hits="0" branch="False" />
             <line number="47" hits="0" branch="False" />
             <line number="48" hits="0" branch="False" />
             <line number="49" hits="0" branch="False" />
             <line number="50" hits="0" branch="False" />
             <line number="51" hits="0" branch="False" />
-            <line number="55" hits="0" branch="False" />
-            <line number="56" hits="0" branch="True" condition-coverage="0% (0/2)">
+            <line number="52" hits="0" branch="False" />
+            <line number="56" hits="0" branch="False" />
+            <line number="57" hits="0" branch="True" condition-coverage="0% (0/2)">
               <conditions>
                 <condition number="9" type="jump" coverage="0%" />
               </conditions>
             </line>
-            <line number="57" hits="0" branch="False" />
             <line number="58" hits="0" branch="False" />
             <line number="59" hits="0" branch="False" />
             <line number="60" hits="0" branch="False" />
             <line number="61" hits="0" branch="False" />
             <line number="62" hits="0" branch="False" />
             <line number="63" hits="0" branch="False" />
-            <line number="65" hits="0" branch="False" />
-            <line number="67" hits="0" branch="False" />
-            <line number="69" hits="0" branch="False" />
-            <line number="71" hits="0" branch="False" />
-            <line number="73" hits="0" branch="False" />
+            <line number="64" hits="0" branch="False" />
+            <line number="66" hits="0" branch="False" />
+            <line number="68" hits="0" branch="False" />
+            <line number="70" hits="0" branch="False" />
+            <line number="72" hits="0" branch="False" />
             <line number="74" hits="0" branch="False" />
             <line number="75" hits="0" branch="False" />
             <line number="76" hits="0" branch="False" />
             <line number="77" hits="0" branch="False" />
-            <line number="21" hits="0" branch="False" />
+            <line number="78" hits="0" branch="False" />
             <line number="22" hits="0" branch="False" />
             <line number="23" hits="0" branch="False" />
             <line number="24" hits="0" branch="False" />
+            <line number="25" hits="0" branch="False" />
           </lines>
         </class>
         <class name="Hondenasiel.Controllers.HondController" filename="Hondenasiel\Controllers\HondController.cs" line-rate="0" branch-rate="1" complexity="1">
@@ -585,7 +588,7 @@
             <line number="42" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="Hondenasiel.Infrastructure.Database.HondenasielDbContext" filename="Hondenasiel\4. Infrastructure - database\HondenasielDbContext.cs" line-rate="0.9096" branch-rate="1" complexity="12">
+        <class name="Hondenasiel.Infrastructure.Database.HondenasielDbContext" filename="Hondenasiel\4. Infrastructure - database\HondenasielDbContext.cs" line-rate="1" branch-rate="1" complexity="12">
           <methods>
             <method name="get_Asielen" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -612,7 +615,7 @@
                 <line number="19" hits="2" branch="False" />
               </lines>
             </method>
-            <method name="OnModelCreating" signature="(Microsoft.EntityFrameworkCore.ModelBuilder)" line-rate="0.8571" branch-rate="1" complexity="1">
+            <method name="OnModelCreating" signature="(Microsoft.EntityFrameworkCore.ModelBuilder)" line-rate="1" branch-rate="1" complexity="1">
               <lines>
                 <line number="22" hits="1" branch="False" />
                 <line number="23" hits="1" branch="False" />
@@ -620,10 +623,10 @@
                 <line number="25" hits="1" branch="False" />
                 <line number="26" hits="1" branch="False" />
                 <line number="27" hits="1" branch="False" />
-                <line number="28" hits="0" branch="False" />
+                <line number="28" hits="1" branch="False" />
               </lines>
             </method>
-            <method name="ConfigureAsielen" signature="(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder`1&lt;Hondenasiel.Domain.Asiel.AsielRoot&gt;)" line-rate="0.5312" branch-rate="1" complexity="1">
+            <method name="ConfigureAsielen" signature="(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder`1&lt;Hondenasiel.Domain.Asiel.AsielRoot&gt;)" line-rate="1" branch-rate="1" complexity="1">
               <lines>
                 <line number="31" hits="1" branch="False" />
                 <line number="32" hits="1" branch="False" />
@@ -641,22 +644,22 @@
                 <line number="46" hits="1" branch="False" />
                 <line number="47" hits="1" branch="False" />
                 <line number="48" hits="1" branch="False" />
-                <line number="49" hits="0" branch="False" />
-                <line number="50" hits="0" branch="False" />
-                <line number="51" hits="0" branch="False" />
-                <line number="52" hits="0" branch="False" />
-                <line number="53" hits="0" branch="False" />
-                <line number="54" hits="0" branch="False" />
-                <line number="55" hits="0" branch="False" />
-                <line number="56" hits="0" branch="False" />
-                <line number="57" hits="0" branch="False" />
-                <line number="58" hits="0" branch="False" />
-                <line number="59" hits="0" branch="False" />
-                <line number="60" hits="0" branch="False" />
-                <line number="61" hits="0" branch="False" />
-                <line number="62" hits="0" branch="False" />
+                <line number="49" hits="1" branch="False" />
+                <line number="50" hits="1" branch="False" />
+                <line number="51" hits="1" branch="False" />
+                <line number="52" hits="1" branch="False" />
+                <line number="53" hits="1" branch="False" />
+                <line number="54" hits="1" branch="False" />
+                <line number="55" hits="1" branch="False" />
+                <line number="56" hits="1" branch="False" />
+                <line number="57" hits="1" branch="False" />
+                <line number="58" hits="1" branch="False" />
+                <line number="59" hits="1" branch="False" />
+                <line number="60" hits="1" branch="False" />
+                <line number="61" hits="1" branch="False" />
+                <line number="62" hits="1" branch="False" />
                 <line number="63" hits="1" branch="False" />
-                <line number="64" hits="0" branch="False" />
+                <line number="64" hits="1" branch="False" />
               </lines>
             </method>
             <method name="ConfigureHonden" signature="(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder`1&lt;Hondenasiel.Domain.Asiel.Hond&gt;)" line-rate="1" branch-rate="1" complexity="1">
@@ -825,7 +828,7 @@
             <line number="25" hits="1" branch="False" />
             <line number="26" hits="1" branch="False" />
             <line number="27" hits="1" branch="False" />
-            <line number="28" hits="0" branch="False" />
+            <line number="28" hits="1" branch="False" />
             <line number="31" hits="1" branch="False" />
             <line number="32" hits="1" branch="False" />
             <line number="33" hits="1" branch="False" />
@@ -842,22 +845,22 @@
             <line number="46" hits="1" branch="False" />
             <line number="47" hits="1" branch="False" />
             <line number="48" hits="1" branch="False" />
-            <line number="49" hits="0" branch="False" />
-            <line number="50" hits="0" branch="False" />
-            <line number="51" hits="0" branch="False" />
-            <line number="52" hits="0" branch="False" />
-            <line number="53" hits="0" branch="False" />
-            <line number="54" hits="0" branch="False" />
-            <line number="55" hits="0" branch="False" />
-            <line number="56" hits="0" branch="False" />
-            <line number="57" hits="0" branch="False" />
-            <line number="58" hits="0" branch="False" />
-            <line number="59" hits="0" branch="False" />
-            <line number="60" hits="0" branch="False" />
-            <line number="61" hits="0" branch="False" />
-            <line number="62" hits="0" branch="False" />
+            <line number="49" hits="1" branch="False" />
+            <line number="50" hits="1" branch="False" />
+            <line number="51" hits="1" branch="False" />
+            <line number="52" hits="1" branch="False" />
+            <line number="53" hits="1" branch="False" />
+            <line number="54" hits="1" branch="False" />
+            <line number="55" hits="1" branch="False" />
+            <line number="56" hits="1" branch="False" />
+            <line number="57" hits="1" branch="False" />
+            <line number="58" hits="1" branch="False" />
+            <line number="59" hits="1" branch="False" />
+            <line number="60" hits="1" branch="False" />
+            <line number="61" hits="1" branch="False" />
+            <line number="62" hits="1" branch="False" />
             <line number="63" hits="1" branch="False" />
-            <line number="64" hits="0" branch="False" />
+            <line number="64" hits="1" branch="False" />
             <line number="67" hits="1" branch="False" />
             <line number="68" hits="1" branch="False" />
             <line number="69" hits="1" branch="False" />
@@ -1507,72 +1510,72 @@
           <methods>
             <method name="get_ID" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="7" hits="2" branch="False" />
+                <line number="7" hits="4" branch="False" />
               </lines>
             </method>
             <method name="get_Code" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="8" hits="2" branch="False" />
+                <line number="8" hits="4" branch="False" />
               </lines>
             </method>
             <method name="get_Omschrijving" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="9" hits="2" branch="False" />
+                <line number="9" hits="4" branch="False" />
               </lines>
             </method>
           </methods>
           <lines>
-            <line number="7" hits="2" branch="False" />
-            <line number="8" hits="2" branch="False" />
-            <line number="9" hits="2" branch="False" />
+            <line number="7" hits="4" branch="False" />
+            <line number="8" hits="4" branch="False" />
+            <line number="9" hits="4" branch="False" />
           </lines>
         </class>
         <class name="Hondenasiel.Domain.Ref.Kleur" filename="Hondenasiel\1. Domain\Ref\Kleur.cs" line-rate="1" branch-rate="1" complexity="3">
           <methods>
             <method name="get_ID" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="7" hits="6" branch="False" />
+                <line number="7" hits="17" branch="False" />
               </lines>
             </method>
             <method name="get_Code" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="8" hits="6" branch="False" />
+                <line number="8" hits="17" branch="False" />
               </lines>
             </method>
             <method name="get_Omschrijving" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="9" hits="6" branch="False" />
+                <line number="9" hits="17" branch="False" />
               </lines>
             </method>
           </methods>
           <lines>
-            <line number="7" hits="6" branch="False" />
-            <line number="8" hits="6" branch="False" />
-            <line number="9" hits="6" branch="False" />
+            <line number="7" hits="17" branch="False" />
+            <line number="8" hits="17" branch="False" />
+            <line number="9" hits="17" branch="False" />
           </lines>
         </class>
         <class name="Hondenasiel.Domain.Ref.Ras" filename="Hondenasiel\1. Domain\Ref\Ras.cs" line-rate="1" branch-rate="1" complexity="3">
           <methods>
             <method name="get_ID" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="7" hits="15" branch="False" />
+                <line number="7" hits="25" branch="False" />
               </lines>
             </method>
             <method name="get_Code" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="8" hits="15" branch="False" />
+                <line number="8" hits="25" branch="False" />
               </lines>
             </method>
             <method name="get_Omschrijving" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="9" hits="15" branch="False" />
+                <line number="9" hits="25" branch="False" />
               </lines>
             </method>
           </methods>
           <lines>
-            <line number="7" hits="15" branch="False" />
-            <line number="8" hits="15" branch="False" />
-            <line number="9" hits="15" branch="False" />
+            <line number="7" hits="25" branch="False" />
+            <line number="8" hits="25" branch="False" />
+            <line number="9" hits="25" branch="False" />
           </lines>
         </class>
         <class name="Hondenasiel.Domain.Asiel.Adres" filename="Hondenasiel\1. Domain\Asiel\Adres.cs" line-rate="0" branch-rate="1" complexity="4">
@@ -1899,7 +1902,7 @@
         </class>
       </classes>
     </package>
-    <package name="Hondenasiel.tests" line-rate="0.5555" branch-rate="1" complexity="13">
+    <package name="Hondenasiel.tests" line-rate="0.8" branch-rate="1" complexity="13">
       <classes>
         <class name="AutoGeneratedProgram" filename="Users\jurge\.nuget\packages\microsoft.net.test.sdk\16.11.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs" line-rate="0" branch-rate="1" complexity="1">
           <methods>
@@ -1913,9 +1916,9 @@
             <line number="4" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="Hondenasiel.tests.BaseRepositoryTest" filename="Hondenasiel.tests\1. Repositories\BaseRepositoryTest.cs" line-rate="0.6666" branch-rate="1" complexity="4">
+        <class name="Hondenasiel.tests.BaseRepositoryTest" filename="Hondenasiel.tests\1. Repositories\BaseRepositoryTest.cs" line-rate="0.875" branch-rate="1" complexity="4">
           <methods>
-            <method name="Init" signature="()" line-rate="0.8887999999999999" branch-rate="1" complexity="1">
+            <method name="Init" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
                 <line number="28" hits="1" branch="False" />
                 <line number="29" hits="1" branch="False" />
@@ -1925,19 +1928,19 @@
                 <line number="34" hits="1" branch="False" />
                 <line number="36" hits="1" branch="False" />
                 <line number="38" hits="1" branch="False" />
-                <line number="40" hits="0" branch="False" />
+                <line number="40" hits="1" branch="False" />
               </lines>
             </method>
-            <method name="VoegAnoniemeRefDataToe" signature="()" line-rate="0.625" branch-rate="1" complexity="1">
+            <method name="VoegAnoniemeRefDataToe" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
                 <line number="43" hits="1" branch="False" />
                 <line number="45" hits="1" branch="False" />
                 <line number="46" hits="1" branch="False" />
                 <line number="47" hits="1" branch="False" />
                 <line number="48" hits="1" branch="False" />
-                <line number="51" hits="0" branch="False" />
-                <line number="52" hits="0" branch="False" />
-                <line number="53" hits="0" branch="False" />
+                <line number="51" hits="1" branch="False" />
+                <line number="52" hits="1" branch="False" />
+                <line number="53" hits="1" branch="False" />
               </lines>
             </method>
             <method name="CleanUp" signature="()" line-rate="0" branch-rate="1" complexity="1">
@@ -1947,12 +1950,12 @@
                 <line number="60" hits="0" branch="False" />
               </lines>
             </method>
-            <method name=".ctor" signature="()" line-rate="0.75" branch-rate="1" complexity="1">
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
                 <line number="22" hits="1" branch="False" />
                 <line number="23" hits="1" branch="False" />
                 <line number="24" hits="1" branch="False" />
-                <line number="25" hits="0" branch="False" />
+                <line number="25" hits="1" branch="False" />
               </lines>
             </method>
           </methods>
@@ -1965,61 +1968,61 @@
             <line number="34" hits="1" branch="False" />
             <line number="36" hits="1" branch="False" />
             <line number="38" hits="1" branch="False" />
-            <line number="40" hits="0" branch="False" />
+            <line number="40" hits="1" branch="False" />
             <line number="43" hits="1" branch="False" />
             <line number="45" hits="1" branch="False" />
             <line number="46" hits="1" branch="False" />
             <line number="47" hits="1" branch="False" />
             <line number="48" hits="1" branch="False" />
-            <line number="51" hits="0" branch="False" />
-            <line number="52" hits="0" branch="False" />
-            <line number="53" hits="0" branch="False" />
+            <line number="51" hits="1" branch="False" />
+            <line number="52" hits="1" branch="False" />
+            <line number="53" hits="1" branch="False" />
             <line number="58" hits="0" branch="False" />
             <line number="59" hits="0" branch="False" />
             <line number="60" hits="0" branch="False" />
             <line number="22" hits="1" branch="False" />
             <line number="23" hits="1" branch="False" />
             <line number="24" hits="1" branch="False" />
-            <line number="25" hits="0" branch="False" />
+            <line number="25" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="Hondenasiel.tests.RefRepositoryTests" filename="Hondenasiel.tests\1. Repositories\RefRepositoryTests.cs" line-rate="0" branch-rate="1" complexity="3">
+        <class name="Hondenasiel.tests.RefRepositoryTests" filename="Hondenasiel.tests\1. Repositories\RefRepositoryTests.cs" line-rate="0.8571" branch-rate="1" complexity="3">
           <methods>
-            <method name="InitiallSetup" signature="()" line-rate="0" branch-rate="1" complexity="1">
+            <method name="InitiallSetup" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="9" hits="0" branch="False" />
-                <line number="10" hits="0" branch="False" />
+                <line number="9" hits="1" branch="False" />
+                <line number="10" hits="1" branch="False" />
               </lines>
             </method>
-            <method name="Test1" signature="()" line-rate="0" branch-rate="1" complexity="1">
+            <method name="Test1" signature="()" line-rate="0.6666" branch-rate="1" complexity="1">
               <lines>
-                <line number="14" hits="0" branch="False" />
-                <line number="15" hits="0" branch="False" />
+                <line number="14" hits="1" branch="False" />
+                <line number="15" hits="1" branch="False" />
                 <line number="16" hits="0" branch="False" />
               </lines>
             </method>
-            <method name="FinalTearDown" signature="()" line-rate="0" branch-rate="1" complexity="1">
+            <method name="FinalTearDown" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="20" hits="0" branch="False" />
-                <line number="22" hits="0" branch="False" />
+                <line number="20" hits="1" branch="False" />
+                <line number="22" hits="1" branch="False" />
               </lines>
             </method>
           </methods>
           <lines>
-            <line number="9" hits="0" branch="False" />
-            <line number="10" hits="0" branch="False" />
-            <line number="14" hits="0" branch="False" />
-            <line number="15" hits="0" branch="False" />
+            <line number="9" hits="1" branch="False" />
+            <line number="10" hits="1" branch="False" />
+            <line number="14" hits="1" branch="False" />
+            <line number="15" hits="1" branch="False" />
             <line number="16" hits="0" branch="False" />
-            <line number="20" hits="0" branch="False" />
-            <line number="22" hits="0" branch="False" />
+            <line number="20" hits="1" branch="False" />
+            <line number="22" hits="1" branch="False" />
           </lines>
         </class>
         <class name="Hondenasiel.tests.BaseTest" filename="Hondenasiel.tests\BaseTest.cs" line-rate="0.625" branch-rate="1" complexity="3">
           <methods>
             <method name="get_Fixture" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="14" hits="2" branch="False" />
+                <line number="14" hits="3" branch="False" />
               </lines>
             </method>
             <method name="CleanUp" signature="()" line-rate="0" branch-rate="1" complexity="1">
@@ -2039,7 +2042,7 @@
             </method>
           </methods>
           <lines>
-            <line number="14" hits="2" branch="False" />
+            <line number="14" hits="3" branch="False" />
             <line number="22" hits="0" branch="False" />
             <line number="23" hits="0" branch="False" />
             <line number="24" hits="0" branch="False" />
