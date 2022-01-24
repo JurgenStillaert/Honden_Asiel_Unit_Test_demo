@@ -49,6 +49,8 @@ namespace Hondenasiel
 			services.AddTransient<IHondDtoRepository, HondDtoRepository>();
 			services.AddTransient<IFotoRepository, FotoRepository>();
 			services.AddTransient<IFileSystem, FileSystem>();
+
+			services.AddHandlers();
 		}
 
 		// This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

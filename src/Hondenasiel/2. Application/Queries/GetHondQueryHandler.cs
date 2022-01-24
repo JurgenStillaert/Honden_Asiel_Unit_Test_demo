@@ -1,17 +1,18 @@
-﻿using Hondenasiel.Messages.Dtos;
+﻿using Hondenasiel.Application.Queries.Decorators;
+using Hondenasiel.Messages.Dtos;
 using Hondenasiel.Messages.Queries;
 using MediatR;
-using System;
 using System.Threading;
 using System.Threading.Tasks;
 
 namespace Hondenasiel.Application.Queries
 {
+	[AuditLog]
 	public class GetHondQueryHandler : IRequestHandler<GetHondQuery, HondReadDto>
 	{
 		private readonly IHondDtoRepository _hondRepo;
 
-		public GetHondQueryHandler(IHondDtoRepository hondRepo) 
+		public GetHondQueryHandler(IHondDtoRepository hondRepo)
 		{
 			_hondRepo = hondRepo;
 		}
