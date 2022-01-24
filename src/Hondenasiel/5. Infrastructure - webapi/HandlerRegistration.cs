@@ -52,7 +52,7 @@ namespace Hondenasiel.Infrastructure.Webapi
 			if (!type.IsGenericType)
 				return false;
 
-			Type typeDefinition = type.GetGenericTypeDefinition();
+			var typeDefinition = type.GetGenericTypeDefinition();
 
 			return typeDefinition == typeof(IRequestHandler<>) || typeDefinition == typeof(IRequestHandler<,>);
 		}

@@ -2,6 +2,7 @@
 using Newtonsoft.Json;
 using System;
 using System.Diagnostics;
+using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -10,8 +11,10 @@ namespace Hondenasiel.Application.Queries.Decorators
 	[AttributeUsage(AttributeTargets.Class, Inherited = false, AllowMultiple = true)]
 	public sealed class AuditLogAttribute : Attribute
 	{
-		public AuditLogAttribute()
+		public string Test { get; }
+		public AuditLogAttribute(string test)
 		{
+			Test = test;
 		}
 	}
 
@@ -27,6 +30,19 @@ namespace Hondenasiel.Application.Queries.Decorators
 
 		async Task<TResult> IRequestHandler<TCommand, TResult>.Handle(TCommand request, CancellationToken cancellationToken)
 		{
+			var attribute = _handler.GetType().GetCustomAttributes(false).FirstOrDefault(x => x.GetType() == typeof(AuditLogAttribute));
+
+			if (attribute != null)
+			{
+				var prop = attribute.GetType().GetProperty("Test");
+				if (prop != null)
+				{
+					var message = attribute.GetType().GetProperty("Test").GetValue(attribute) as string;
+
+					Debug.WriteLine($"Custom message is {message}");
+				}
+			}
+
 			var commandJson = JsonConvert.SerializeObject(request);
 
 			// Use proper logging here

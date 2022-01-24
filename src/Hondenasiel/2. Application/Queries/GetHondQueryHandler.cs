@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Hondenasiel.Application.Queries
 {
-	[AuditLog]
+	[AuditLog("Hello world")]
 	public class GetHondQueryHandler : IRequestHandler<GetHondQuery, HondReadDto>
 	{
 		private readonly IHondDtoRepository _hondRepo;
