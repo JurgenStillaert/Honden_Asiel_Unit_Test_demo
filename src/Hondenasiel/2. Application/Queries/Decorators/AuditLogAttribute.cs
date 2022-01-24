@@ -1,4 +1,5 @@
-﻿using MediatR;
+﻿using Hondenasiel.Infrastructure;
+using MediatR;
 using Newtonsoft.Json;
 using System;
 using System.Diagnostics;
@@ -30,18 +31,8 @@ namespace Hondenasiel.Application.Queries.Decorators
 
 		async Task<TResult> IRequestHandler<TCommand, TResult>.Handle(TCommand request, CancellationToken cancellationToken)
 		{
-			var attribute = _handler.GetType().GetCustomAttributes(false).FirstOrDefault(x => x.GetType() == typeof(AuditLogAttribute));
-
-			if (attribute != null)
-			{
-				var prop = attribute.GetType().GetProperty("Test");
-				if (prop != null)
-				{
-					var message = attribute.GetType().GetProperty("Test").GetValue(attribute) as string;
-
-					Debug.WriteLine($"Custom message is {message}");
-				}
-			}
+			var message = AttributeParameterExtractor<string>.GetParameterValue(_handler.GetType(), typeof(AuditLogAttribute), "Test");
+			Debug.WriteLine($"Parameter message: {message}");
 
 			var commandJson = JsonConvert.SerializeObject(request);
 
